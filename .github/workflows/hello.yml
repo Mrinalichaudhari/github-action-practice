@@ -7,4 +7,4 @@ jobs:
 
     steps:
       - name: hi to everyone
-        run: echo" hi sanu"
+        run: echo "hi sanu"
