@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: build using docker
-        run: "build uding docker"
+        run: echo "build uding docker"
 
   test:
     runs-on: ubuntu-latest
